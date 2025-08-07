@@ -1,14 +1,12 @@
-﻿using KSProject.Patterns;
+﻿using KSProject.Patterns.Repository;
+using System.Text.Json.Serialization;
 
 namespace KSProject.Models
 {
-    public abstract record Person : IRepositoryObject
+	[JsonDerivedType(typeof(Patient), "Patient")]
+	[JsonDerivedType(typeof(Doctor), "Doctor")]
+	public abstract record Person(Guid Id) : IRepositoryObject
     {
-		public record Patient(Guid Id, string Name, string Surname, string Pesel, string Age, string InsuranceNumber) : Person;
-
-		public record Doctor(Guid Id, string Name, string Surname, string Specialization, string MedicalLicense) : Person;
 	};
-
-    
 }
 

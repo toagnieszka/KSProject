@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\specification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\specification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\chainofresponsibility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\chainofresponsibility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\decider\\decide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:decider\\decide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,68 +11,300 @@
       "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:decider\\decidermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\servicebus\\servicebusmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:servicebus\\servicebusmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\cqrs\\commands\\registerpersoncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\cqrs\\commands\\registerpersoncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\retry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\retry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\strategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\strategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\cqrs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\cqrs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\controllers\\basiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:controllers\\basiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\cqrs\\commands\\registerpersoncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\cqrs\\commands\\registerpersoncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\models\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:models\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\models\\visit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:models\\visit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\services\\iblobuploadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:services\\iblobuploadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\services\\blobuploadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:services\\blobuploadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\retry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\retry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\maybe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\maybe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\validatorpattern\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\validatorpattern\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\validatorpattern\\rule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\validatorpattern\\rule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\validatorpattern\\personvalidation\\surnameisnotemptyrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\validatorpattern\\personvalidation\\surnameisnotemptyrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\validatorpattern\\personvalidation\\specializationisnotemptyrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\validatorpattern\\personvalidation\\specializationisnotemptyrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\validatorpattern\\personvalidation\\rightpeselrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\validatorpattern\\personvalidation\\rightpeselrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\stategy\\strategyselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\stategy\\strategyselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\stategy\\strategypatientperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\stategy\\strategypatientperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\stategy\\strategydoctorperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\stategy\\strategydoctorperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\stategy\\istrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\stategy\\istrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\specificationpattern\\specification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\specificationpattern\\specification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\specificationpattern\\orspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\specificationpattern\\orspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\specificationpattern\\notspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\specificationpattern\\notspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\specificationpattern\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\specificationpattern\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\specificationpattern\\andspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\specificationpattern\\andspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\resultpattern\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\resultpattern\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\resultpattern\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\resultpattern\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\repository\\storagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\repository\\storagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\repository\\irepositoryobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\repository\\irepositoryobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\repository\\cosmosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\repository\\cosmosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\observer\\subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\observer\\subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\observer\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\observer\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\mapper\\persondtorequestmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\mapper\\persondtorequestmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\mapper\\imapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\mapper\\imapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\cqrs\\queries\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\cqrs\\queries\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\cqrs\\queries\\getpersonqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\cqrs\\queries\\getpersonqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\cqrs\\queries\\getpersonquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\cqrs\\queries\\getpersonquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\cqrs\\commands\\initslotcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\cqrs\\commands\\initslotcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\cqrs\\commands\\initslotcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\cqrs\\commands\\initslotcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\cqrs\\commands\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\cqrs\\commands\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\cqrs\\commands\\cancelslotcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\cqrs\\commands\\cancelslotcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\cqrs\\commands\\cancelslotcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\cqrs\\commands\\cancelslotcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\cqrs\\commands\\bookslotcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\cqrs\\commands\\bookslotcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\cqrs\\commands\\bookslotcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\cqrs\\commands\\bookslotcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\configuration\\storageconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\configuration\\storageconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\configuration\\iconfigurationfor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\configuration\\iconfigurationfor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\configuration\\cosmosconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\configuration\\cosmosconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\chainofresponsibility\\validationexecutorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\chainofresponsibility\\validationexecutorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\chainofresponsibility\\peselhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\chainofresponsibility\\peselhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\chainofresponsibility\\specializationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\chainofresponsibility\\specializationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\chainofresponsibility\\surnamehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\chainofresponsibility\\surnamehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\chainofresponsibility\\validationchainfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\chainofresponsibility\\validationchainfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\patterns\\chainofresponsibility\\ihandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:patterns\\chainofresponsibility\\ihandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\dtos\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:dtos\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\decider\\slotstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:decider\\slotstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\decider\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:decider\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\decider\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:decider\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\controllers\\uploadfilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:controllers\\uploadfilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\controllers\\decidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:controllers\\decidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\backgroundserviceex\\registrationbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:backgroundserviceex\\registrationbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\backgroundserviceex\\ibackgroundoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:backgroundserviceex\\ibackgroundoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\backgroundserviceex\\customoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:backgroundserviceex\\customoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\backgroundserviceex\\backgroundserviceexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:backgroundserviceex\\backgroundserviceexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\ksproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:ksproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|c:\\users\\agnie\\desktop\\projekty\\github\\ksproject\\valueobjects\\slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D0923-C439-4150-86C0-206BC12E505F}|KSProject.csproj|solutionrelative:valueobjects\\slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,7 +314,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -110,267 +330,903 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DeciderManager.cs",
-              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Decider\\DeciderManager.cs",
-              "RelativeDocumentMoniker": "Decider\\DeciderManager.cs",
-              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Decider\\DeciderManager.cs",
-              "RelativeToolTip": "Decider\\DeciderManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ServiceBusManager.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\ServiceBus\\ServiceBusManager.cs",
+              "RelativeDocumentMoniker": "ServiceBus\\ServiceBusManager.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\ServiceBus\\ServiceBusManager.cs",
+              "RelativeToolTip": "ServiceBus\\ServiceBusManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T18:37:39.529Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Specification.cs",
-              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Specification.cs",
-              "RelativeDocumentMoniker": "Patterns\\Specification.cs",
-              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Specification.cs",
-              "RelativeToolTip": "Patterns\\Specification.cs",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAAwG4AAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T10:03:20.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Decide.cs",
-              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Decider\\Decide.cs",
-              "RelativeDocumentMoniker": "Decider\\Decide.cs",
-              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Decider\\Decide.cs",
-              "RelativeToolTip": "Decider\\Decide.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAiwD8AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T11:02:18.869Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CQRS.cs",
-              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\CQRS.cs",
-              "RelativeDocumentMoniker": "Patterns\\CQRS.cs",
-              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\CQRS.cs",
-              "RelativeToolTip": "Patterns\\CQRS.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T07:36:15.623Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Observer.cs",
-              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Observer.cs",
-              "RelativeDocumentMoniker": "Patterns\\Observer.cs",
-              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Observer.cs",
-              "RelativeToolTip": "Patterns\\Observer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T09:31:27.857Z",
+              "WhenOpened": "2025-05-24T10:10:27.64Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Result.cs",
-              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Result.cs",
-              "RelativeDocumentMoniker": "Patterns\\Result.cs",
-              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Result.cs",
-              "RelativeToolTip": "Patterns\\Result.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Title": "IBlobUploadService.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Services\\IBlobUploadService.cs",
+              "RelativeDocumentMoniker": "Services\\IBlobUploadService.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Services\\IBlobUploadService.cs",
+              "RelativeToolTip": "Services\\IBlobUploadService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T08:01:30.973Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Retry.cs",
-              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Retry.cs",
-              "RelativeDocumentMoniker": "Patterns\\Retry.cs",
-              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Retry.cs",
-              "RelativeToolTip": "Patterns\\Retry.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T08:34:27.046Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Strategy.cs",
-              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Strategy.cs",
-              "RelativeDocumentMoniker": "Patterns\\Strategy.cs",
-              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Strategy.cs",
-              "RelativeToolTip": "Patterns\\Strategy.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T08:37:24.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T09:32:45.629Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Repository.cs",
-              "RelativeDocumentMoniker": "Patterns\\Repository.cs",
-              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Repository.cs",
-              "RelativeToolTip": "Patterns\\Repository.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBEAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T09:04:11.252Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Builder.cs",
-              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Builder.cs",
-              "RelativeDocumentMoniker": "Patterns\\Builder.cs",
-              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Builder.cs",
-              "RelativeToolTip": "Patterns\\Builder.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T07:35:18.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ChainOfResponsibility.cs",
-              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\ChainOfResponsibility.cs",
-              "RelativeDocumentMoniker": "Patterns\\ChainOfResponsibility.cs",
-              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\ChainOfResponsibility.cs",
-              "RelativeToolTip": "Patterns\\ChainOfResponsibility.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T10:14:21.591Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Models\\Person.cs",
-              "RelativeDocumentMoniker": "Models\\Person.cs",
-              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Models\\Person.cs",
-              "RelativeToolTip": "Models\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T07:36:44.896Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BasicController.cs",
-              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Controllers\\BasicController.cs",
-              "RelativeDocumentMoniker": "Controllers\\BasicController.cs",
-              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Controllers\\BasicController.cs",
-              "RelativeToolTip": "Controllers\\BasicController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T11:20:45.984Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-10T07:17:35.671Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Mapper.cs",
-              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Mapper.cs",
-              "RelativeDocumentMoniker": "Patterns\\Mapper.cs",
-              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Mapper.cs",
-              "RelativeToolTip": "Patterns\\Mapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Visit.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Models\\Visit.cs",
+              "RelativeDocumentMoniker": "Models\\Visit.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Models\\Visit.cs",
+              "RelativeToolTip": "Models\\Visit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAB4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T07:19:00.067Z",
+              "WhenOpened": "2025-05-27T07:57:00.158Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 5,
               "Title": "Resource.cs",
               "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Models\\Resource.cs",
               "RelativeDocumentMoniker": "Models\\Resource.cs",
               "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Models\\Resource.cs",
               "RelativeToolTip": "Models\\Resource.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-10T10:08:18.837Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Configuration.cs",
-              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Configuration.cs",
-              "RelativeDocumentMoniker": "Patterns\\Configuration.cs",
-              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Configuration.cs",
-              "RelativeToolTip": "Patterns\\Configuration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "RegisterPersonCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\CQRS\\Commands\\RegisterPersonCommandHandler.cs",
+              "RelativeDocumentMoniker": "Patterns\\CQRS\\Commands\\RegisterPersonCommandHandler.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\CQRS\\Commands\\RegisterPersonCommandHandler.cs",
+              "RelativeToolTip": "Patterns\\CQRS\\Commands\\RegisterPersonCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T09:47:48.989Z",
+              "WhenOpened": "2025-05-22T17:24:26.786Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 0,
+              "Title": "Decide.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Decider\\Decide.cs",
+              "RelativeDocumentMoniker": "Decider\\Decide.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Decider\\Decide.cs",
+              "RelativeToolTip": "Decider\\Decide.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:02:18.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BlobUploadService.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Services\\BlobUploadService.cs",
+              "RelativeDocumentMoniker": "Services\\BlobUploadService.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Services\\BlobUploadService.cs",
+              "RelativeToolTip": "Services\\BlobUploadService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T09:30:06.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterPersonCommand.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\CQRS\\Commands\\RegisterPersonCommand.cs",
+              "RelativeDocumentMoniker": "Patterns\\CQRS\\Commands\\RegisterPersonCommand.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\CQRS\\Commands\\RegisterPersonCommand.cs",
+              "RelativeToolTip": "Patterns\\CQRS\\Commands\\RegisterPersonCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:26:38.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeciderManager.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Decider\\DeciderManager.cs",
+              "RelativeDocumentMoniker": "Decider\\DeciderManager.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Decider\\DeciderManager.cs",
+              "RelativeToolTip": "Decider\\DeciderManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:37:39.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Singleton.cs",
               "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Singleton.cs",
               "RelativeDocumentMoniker": "Patterns\\Singleton.cs",
               "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Singleton.cs",
               "RelativeToolTip": "Patterns\\Singleton.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T07:28:31.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T07:28:31.299Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Factory.cs",
-              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Factory.cs",
-              "RelativeDocumentMoniker": "Patterns\\Factory.cs",
-              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Factory.cs",
-              "RelativeToolTip": "Patterns\\Factory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "Retry.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Retry.cs",
+              "RelativeDocumentMoniker": "Patterns\\Retry.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Retry.cs",
+              "RelativeToolTip": "Patterns\\Retry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T09:36:51.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T08:34:27.046Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 12,
               "Title": "Maybe.cs",
               "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Maybe.cs",
               "RelativeDocumentMoniker": "Patterns\\Maybe.cs",
               "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Maybe.cs",
               "RelativeToolTip": "Patterns\\Maybe.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T08:58:07.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T08:58:07.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Factory.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Factory.cs",
+              "RelativeDocumentMoniker": "Patterns\\Factory.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Factory.cs",
+              "RelativeToolTip": "Patterns\\Factory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T09:36:51.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\ValidatorPattern\\Validator.cs",
+              "RelativeDocumentMoniker": "Patterns\\ValidatorPattern\\Validator.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\ValidatorPattern\\Validator.cs",
+              "RelativeToolTip": "Patterns\\ValidatorPattern\\Validator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:13:36.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Builder.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Builder.cs",
+              "RelativeDocumentMoniker": "Patterns\\Builder.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Builder.cs",
+              "RelativeToolTip": "Patterns\\Builder.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA3wD8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T07:35:18.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Rule.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\ValidatorPattern\\Rule.cs",
+              "RelativeDocumentMoniker": "Patterns\\ValidatorPattern\\Rule.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\ValidatorPattern\\Rule.cs",
+              "RelativeToolTip": "Patterns\\ValidatorPattern\\Rule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:41:34.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SurnameIsNotEmptyRule.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\ValidatorPattern\\PersonValidation\\SurnameIsNotEmptyRule.cs",
+              "RelativeDocumentMoniker": "Patterns\\ValidatorPattern\\PersonValidation\\SurnameIsNotEmptyRule.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\ValidatorPattern\\PersonValidation\\SurnameIsNotEmptyRule.cs",
+              "RelativeToolTip": "Patterns\\ValidatorPattern\\PersonValidation\\SurnameIsNotEmptyRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T08:59:27.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SpecializationIsNotEmptyRule.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\ValidatorPattern\\PersonValidation\\SpecializationIsNotEmptyRule.cs",
+              "RelativeDocumentMoniker": "Patterns\\ValidatorPattern\\PersonValidation\\SpecializationIsNotEmptyRule.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\ValidatorPattern\\PersonValidation\\SpecializationIsNotEmptyRule.cs",
+              "RelativeToolTip": "Patterns\\ValidatorPattern\\PersonValidation\\SpecializationIsNotEmptyRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T18:24:37.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RightPeselRule.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\ValidatorPattern\\PersonValidation\\RightPeselRule.cs",
+              "RelativeDocumentMoniker": "Patterns\\ValidatorPattern\\PersonValidation\\RightPeselRule.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\ValidatorPattern\\PersonValidation\\RightPeselRule.cs",
+              "RelativeToolTip": "Patterns\\ValidatorPattern\\PersonValidation\\RightPeselRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T18:30:21.001Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
+              "Title": "StrategySelector.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Stategy\\StrategySelector.cs",
+              "RelativeDocumentMoniker": "Patterns\\Stategy\\StrategySelector.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Stategy\\StrategySelector.cs",
+              "RelativeToolTip": "Patterns\\Stategy\\StrategySelector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T11:37:39.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StrategyPatientPerson.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Stategy\\StrategyPatientPerson.cs",
+              "RelativeDocumentMoniker": "Patterns\\Stategy\\StrategyPatientPerson.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Stategy\\StrategyPatientPerson.cs",
+              "RelativeToolTip": "Patterns\\Stategy\\StrategyPatientPerson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:40:12.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StrategyDoctorPerson.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Stategy\\StrategyDoctorPerson.cs",
+              "RelativeDocumentMoniker": "Patterns\\Stategy\\StrategyDoctorPerson.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Stategy\\StrategyDoctorPerson.cs",
+              "RelativeToolTip": "Patterns\\Stategy\\StrategyDoctorPerson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T08:37:24.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Stategy\\IStrategy.cs",
+              "RelativeDocumentMoniker": "Patterns\\Stategy\\IStrategy.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Stategy\\IStrategy.cs",
+              "RelativeToolTip": "Patterns\\Stategy\\IStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:39:44.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Specification.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\SpecificationPattern\\Specification.cs",
+              "RelativeDocumentMoniker": "Patterns\\SpecificationPattern\\Specification.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\SpecificationPattern\\Specification.cs",
+              "RelativeToolTip": "Patterns\\SpecificationPattern\\Specification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:36:57.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\SpecificationPattern\\OrSpecification.cs",
+              "RelativeDocumentMoniker": "Patterns\\SpecificationPattern\\OrSpecification.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\SpecificationPattern\\OrSpecification.cs",
+              "RelativeToolTip": "Patterns\\SpecificationPattern\\OrSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:38:01.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "NotSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\SpecificationPattern\\NotSpecification.cs",
+              "RelativeDocumentMoniker": "Patterns\\SpecificationPattern\\NotSpecification.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\SpecificationPattern\\NotSpecification.cs",
+              "RelativeToolTip": "Patterns\\SpecificationPattern\\NotSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T10:03:20.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ISpecification.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\SpecificationPattern\\ISpecification.cs",
+              "RelativeDocumentMoniker": "Patterns\\SpecificationPattern\\ISpecification.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\SpecificationPattern\\ISpecification.cs",
+              "RelativeToolTip": "Patterns\\SpecificationPattern\\ISpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:36:28.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AndSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\SpecificationPattern\\AndSpecification.cs",
+              "RelativeDocumentMoniker": "Patterns\\SpecificationPattern\\AndSpecification.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\SpecificationPattern\\AndSpecification.cs",
+              "RelativeToolTip": "Patterns\\SpecificationPattern\\AndSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:37:39.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\ResultPattern\\Result.cs",
+              "RelativeDocumentMoniker": "Patterns\\ResultPattern\\Result.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\ResultPattern\\Result.cs",
+              "RelativeToolTip": "Patterns\\ResultPattern\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T08:01:30.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Error.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\ResultPattern\\Error.cs",
+              "RelativeDocumentMoniker": "Patterns\\ResultPattern\\Error.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\ResultPattern\\Error.cs",
+              "RelativeToolTip": "Patterns\\ResultPattern\\Error.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:32:54.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "StorageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Repository\\StorageRepository.cs",
+              "RelativeDocumentMoniker": "Patterns\\Repository\\StorageRepository.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Repository\\StorageRepository.cs",
+              "RelativeToolTip": "Patterns\\Repository\\StorageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:10:11.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IRepositoryObject.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Repository\\IRepositoryObject.cs",
+              "RelativeDocumentMoniker": "Patterns\\Repository\\IRepositoryObject.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Repository\\IRepositoryObject.cs",
+              "RelativeToolTip": "Patterns\\Repository\\IRepositoryObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:08:55.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Patterns\\Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Repository\\IRepository.cs",
+              "RelativeToolTip": "Patterns\\Repository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:09:23.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CosmosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Repository\\CosmosRepository.cs",
+              "RelativeDocumentMoniker": "Patterns\\Repository\\CosmosRepository.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Repository\\CosmosRepository.cs",
+              "RelativeToolTip": "Patterns\\Repository\\CosmosRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T09:04:11.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Subscriber.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Observer\\Subscriber.cs",
+              "RelativeDocumentMoniker": "Patterns\\Observer\\Subscriber.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Observer\\Subscriber.cs",
+              "RelativeToolTip": "Patterns\\Observer\\Subscriber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T09:31:27.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Observer\\Publisher.cs",
+              "RelativeDocumentMoniker": "Patterns\\Observer\\Publisher.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Observer\\Publisher.cs",
+              "RelativeToolTip": "Patterns\\Observer\\Publisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:31:36.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PersonDtoRequestMapper.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Mapper\\PersonDtoRequestMapper.cs",
+              "RelativeDocumentMoniker": "Patterns\\Mapper\\PersonDtoRequestMapper.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Mapper\\PersonDtoRequestMapper.cs",
+              "RelativeToolTip": "Patterns\\Mapper\\PersonDtoRequestMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:17:14.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IMapper.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Mapper\\IMapper.cs",
+              "RelativeDocumentMoniker": "Patterns\\Mapper\\IMapper.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Mapper\\IMapper.cs",
+              "RelativeToolTip": "Patterns\\Mapper\\IMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:29:04.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\CQRS\\Queries\\IQueryHandler.cs",
+              "RelativeDocumentMoniker": "Patterns\\CQRS\\Queries\\IQueryHandler.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\CQRS\\Queries\\IQueryHandler.cs",
+              "RelativeToolTip": "Patterns\\CQRS\\Queries\\IQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:23:21.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "GetPersonQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\CQRS\\Queries\\GetPersonQueryHandler.cs",
+              "RelativeDocumentMoniker": "Patterns\\CQRS\\Queries\\GetPersonQueryHandler.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\CQRS\\Queries\\GetPersonQueryHandler.cs",
+              "RelativeToolTip": "Patterns\\CQRS\\Queries\\GetPersonQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:24:11.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GetPersonQuery.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\CQRS\\Queries\\GetPersonQuery.cs",
+              "RelativeDocumentMoniker": "Patterns\\CQRS\\Queries\\GetPersonQuery.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\CQRS\\Queries\\GetPersonQuery.cs",
+              "RelativeToolTip": "Patterns\\CQRS\\Queries\\GetPersonQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:27:02.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "InitSlotCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\CQRS\\Commands\\InitSlotCommandHandler.cs",
+              "RelativeDocumentMoniker": "Patterns\\CQRS\\Commands\\InitSlotCommandHandler.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\CQRS\\Commands\\InitSlotCommandHandler.cs",
+              "RelativeToolTip": "Patterns\\CQRS\\Commands\\InitSlotCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:47:27.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "InitSlotCommand.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\CQRS\\Commands\\InitSlotCommand.cs",
+              "RelativeDocumentMoniker": "Patterns\\CQRS\\Commands\\InitSlotCommand.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\CQRS\\Commands\\InitSlotCommand.cs",
+              "RelativeToolTip": "Patterns\\CQRS\\Commands\\InitSlotCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:47:06.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ICommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\CQRS\\Commands\\ICommandHandler.cs",
+              "RelativeDocumentMoniker": "Patterns\\CQRS\\Commands\\ICommandHandler.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\CQRS\\Commands\\ICommandHandler.cs",
+              "RelativeToolTip": "Patterns\\CQRS\\Commands\\ICommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:22:16.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CancelSlotCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\CQRS\\Commands\\CancelSlotCommandHandler.cs",
+              "RelativeDocumentMoniker": "Patterns\\CQRS\\Commands\\CancelSlotCommandHandler.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\CQRS\\Commands\\CancelSlotCommandHandler.cs",
+              "RelativeToolTip": "Patterns\\CQRS\\Commands\\CancelSlotCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T18:11:23.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CancelSlotCommand.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\CQRS\\Commands\\CancelSlotCommand.cs",
+              "RelativeDocumentMoniker": "Patterns\\CQRS\\Commands\\CancelSlotCommand.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\CQRS\\Commands\\CancelSlotCommand.cs",
+              "RelativeToolTip": "Patterns\\CQRS\\Commands\\CancelSlotCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:59:48.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "BookSlotCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\CQRS\\Commands\\BookSlotCommandHandler.cs",
+              "RelativeDocumentMoniker": "Patterns\\CQRS\\Commands\\BookSlotCommandHandler.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\CQRS\\Commands\\BookSlotCommandHandler.cs",
+              "RelativeToolTip": "Patterns\\CQRS\\Commands\\BookSlotCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T18:00:11.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "BookSlotCommand.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\CQRS\\Commands\\BookSlotCommand.cs",
+              "RelativeDocumentMoniker": "Patterns\\CQRS\\Commands\\BookSlotCommand.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\CQRS\\Commands\\BookSlotCommand.cs",
+              "RelativeToolTip": "Patterns\\CQRS\\Commands\\BookSlotCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:57:59.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "StorageConfig.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Configuration\\StorageConfig.cs",
+              "RelativeDocumentMoniker": "Patterns\\Configuration\\StorageConfig.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Configuration\\StorageConfig.cs",
+              "RelativeToolTip": "Patterns\\Configuration\\StorageConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:20:45.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IConfigurationFor.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Configuration\\IConfigurationFor.cs",
+              "RelativeDocumentMoniker": "Patterns\\Configuration\\IConfigurationFor.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Configuration\\IConfigurationFor.cs",
+              "RelativeToolTip": "Patterns\\Configuration\\IConfigurationFor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:19:56.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CosmosConfig.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Configuration\\CosmosConfig.cs",
+              "RelativeDocumentMoniker": "Patterns\\Configuration\\CosmosConfig.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\Configuration\\CosmosConfig.cs",
+              "RelativeToolTip": "Patterns\\Configuration\\CosmosConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T09:47:48.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ValidationExecutorHandler.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\ChainOfResponsibility\\ValidationExecutorHandler.cs",
+              "RelativeDocumentMoniker": "Patterns\\ChainOfResponsibility\\ValidationExecutorHandler.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\ChainOfResponsibility\\ValidationExecutorHandler.cs",
+              "RelativeToolTip": "Patterns\\ChainOfResponsibility\\ValidationExecutorHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T10:14:21.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "PeselHandler.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\ChainOfResponsibility\\PeselHandler.cs",
+              "RelativeDocumentMoniker": "Patterns\\ChainOfResponsibility\\PeselHandler.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\ChainOfResponsibility\\PeselHandler.cs",
+              "RelativeToolTip": "Patterns\\ChainOfResponsibility\\PeselHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:16:26.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "SpecializationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\ChainOfResponsibility\\SpecializationHandler.cs",
+              "RelativeDocumentMoniker": "Patterns\\ChainOfResponsibility\\SpecializationHandler.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\ChainOfResponsibility\\SpecializationHandler.cs",
+              "RelativeToolTip": "Patterns\\ChainOfResponsibility\\SpecializationHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T09:15:22.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "SurnameHandler.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\ChainOfResponsibility\\SurnameHandler.cs",
+              "RelativeDocumentMoniker": "Patterns\\ChainOfResponsibility\\SurnameHandler.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\ChainOfResponsibility\\SurnameHandler.cs",
+              "RelativeToolTip": "Patterns\\ChainOfResponsibility\\SurnameHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:16:14.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ValidationChainFactory.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\ChainOfResponsibility\\ValidationChainFactory.cs",
+              "RelativeDocumentMoniker": "Patterns\\ChainOfResponsibility\\ValidationChainFactory.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\ChainOfResponsibility\\ValidationChainFactory.cs",
+              "RelativeToolTip": "Patterns\\ChainOfResponsibility\\ValidationChainFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T09:25:56.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "IHandle.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\ChainOfResponsibility\\IHandle.cs",
+              "RelativeDocumentMoniker": "Patterns\\ChainOfResponsibility\\IHandle.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Patterns\\ChainOfResponsibility\\IHandle.cs",
+              "RelativeToolTip": "Patterns\\ChainOfResponsibility\\IHandle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:15:26.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Models\\Doctor.cs",
+              "RelativeToolTip": "Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T07:57:30.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Models\\Appointment.cs",
+              "RelativeToolTip": "Models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T07:57:07.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "PersonDto.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\DTOs\\PersonDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\PersonDto.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\DTOs\\PersonDto.cs",
+              "RelativeToolTip": "DTOs\\PersonDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:31:06.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "SlotState.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Decider\\SlotState.cs",
+              "RelativeDocumentMoniker": "Decider\\SlotState.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Decider\\SlotState.cs",
+              "RelativeToolTip": "Decider\\SlotState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T20:12:45.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Decider\\Event.cs",
+              "RelativeDocumentMoniker": "Decider\\Event.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Decider\\Event.cs",
+              "RelativeToolTip": "Decider\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T20:11:38.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Decider\\Command.cs",
+              "RelativeDocumentMoniker": "Decider\\Command.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Decider\\Command.cs",
+              "RelativeToolTip": "Decider\\Command.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T20:12:19.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "UploadFileController.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Controllers\\UploadFileController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UploadFileController.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Controllers\\UploadFileController.cs",
+              "RelativeToolTip": "Controllers\\UploadFileController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T09:45:28.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "Controllers\\PersonController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T08:29:55.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "DeciderController.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Controllers\\DeciderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DeciderController.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Controllers\\DeciderController.cs",
+              "RelativeToolTip": "Controllers\\DeciderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:52:57.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "RegistrationBackground.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\BackgroundServiceEx\\RegistrationBackground.cs",
+              "RelativeDocumentMoniker": "BackgroundServiceEx\\RegistrationBackground.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\BackgroundServiceEx\\RegistrationBackground.cs",
+              "RelativeToolTip": "BackgroundServiceEx\\RegistrationBackground.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T19:04:45.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "IBackgroundOperation.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\BackgroundServiceEx\\IBackgroundOperation.cs",
+              "RelativeDocumentMoniker": "BackgroundServiceEx\\IBackgroundOperation.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\BackgroundServiceEx\\IBackgroundOperation.cs",
+              "RelativeToolTip": "BackgroundServiceEx\\IBackgroundOperation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T18:47:26.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "CustomOperation.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\BackgroundServiceEx\\CustomOperation.cs",
+              "RelativeDocumentMoniker": "BackgroundServiceEx\\CustomOperation.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\BackgroundServiceEx\\CustomOperation.cs",
+              "RelativeToolTip": "BackgroundServiceEx\\CustomOperation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T18:46:18.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "BackgroundServiceExample.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\BackgroundServiceEx\\BackgroundServiceExample.cs",
+              "RelativeDocumentMoniker": "BackgroundServiceEx\\BackgroundServiceExample.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\BackgroundServiceEx\\BackgroundServiceExample.cs",
+              "RelativeToolTip": "BackgroundServiceEx\\BackgroundServiceExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T18:50:48.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-27T08:40:56.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Models\\Patient.cs",
+              "RelativeToolTip": "Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T07:57:20.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Models\\Person.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\Models\\Person.cs",
+              "RelativeToolTip": "Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T07:36:44.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
               "Title": "KSProject.csproj",
               "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\KSProject.csproj",
               "RelativeDocumentMoniker": "KSProject.csproj",
@@ -378,8 +1234,19 @@
               "RelativeToolTip": "KSProject.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-10T07:26:02.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T18:45:56.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Slot.cs",
+              "DocumentMoniker": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\ValueObjects\\Slot.cs",
+              "RelativeDocumentMoniker": "ValueObjects\\Slot.cs",
+              "ToolTip": "C:\\Users\\agnie\\Desktop\\projekty\\GitHub\\KSProject\\ValueObjects\\Slot.cs",
+              "RelativeToolTip": "ValueObjects\\Slot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T08:00:12.874Z"
             }
           ]
         }

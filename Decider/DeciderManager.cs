@@ -1,23 +1,33 @@
-﻿using KSProject.Patterns;
+﻿using KSProject.Patterns.ResultPattern;
+using static KSProject.Decider.Command;
 
 namespace KSProject.Decider
 {
-	public class DeciderManager
+    public class DeciderManager
 	{
 		private List<Event> _eventStore = new();
 
+		public event EventHandler? ItemCreated;
 		public event EventHandler? ItemBooked;
 		public event EventHandler? ItemCanceled;
 
-		public SlotState CurrentState => _eventStore.Fold(); // wykorzystuje Decidera
+		public SlotState CurrentState => Decider.Fold(_eventStore); // wykorzystuje Decidera
 
-		public Result BookSlot(DateTime start, DateTime end)
+		public void InitSlot(Guid appointmentId, Guid doctorId, DateTime start, DateTime end)
+		{
+			var state = CurrentState;
+			var events = state.Decide(new Create(appointmentId, doctorId, start, end));
+			_eventStore.AddRange(events);
+			ItemCreated.Invoke(this, new EventArgs());
+		}
+
+		public Result BookSlot(Guid patientId)
 		{
 			var state = CurrentState;
 			if (state is SlotState.Booked)
 				return Result.Failure(new Error("Slot.Booked", "You can't book an event for this date"));
 
-			var events = state.Decide(new Command.Create(start, end));
+			var events = state.Decide(new Book(patientId));
 			_eventStore.AddRange(events);
 			ItemBooked.Invoke(this, new EventArgs());
 			return Result.Success();
@@ -35,6 +45,10 @@ namespace KSProject.Decider
 			return Result.Success();
 		}
 
+		private static void EventCreated(object sender, EventArgs args)
+		{
+			Console.WriteLine("Event was created");
+		}
 		private static void EventBooked(object sender, EventArgs args)
 		{
 			Console.WriteLine("Event was booked");
@@ -47,6 +61,7 @@ namespace KSProject.Decider
 
 		public void UseEvents()
 		{
+			ItemCreated += EventCreated;
 			ItemBooked += EventBooked;
 			ItemCanceled += EventCanceled;
 		}
